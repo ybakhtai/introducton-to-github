@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+	<html lang ="en">
+	<meta charset = "UTF-8">
+	
+		<title>	Yoosuf Bakhtair's Portfolio </title>
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<link rel="stylesheet" href="name">
+		
+	<div class="topnav">
+		<a class="active" href="#home">Home</a>
+		<a href="#WorkExperience">Work Experience</a>
+		<a href="#about">About</a>
+		<a href="#contactInfo">Contact Info</a>
+	</div>
+	
+	<style> 
+	body {
+		height: 100%;
+		margin: .2%;
+		font-family: Times New Roman, Arial;
+	}
+		.topnav {overflow: hidden;
+  background-color: #333;
+	}
+
+	.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+	}
+
+	.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+	}
+
+	.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+	}
+	</style>
+	<script src="name"></script> 
+
+	<div class="hero-text">
+		<h1>Yoosuf Bakhtair's Portfolio</h1>
+		<p>Aspiring Software Engineering Student</p>
+		<button>Hire me</button>
+	</div>
+	
+	<body>
+		<img src="img_happyman.jpg" alt="tutorial1pic" style="width:100%">
+		
+		
+<div class="WorkExperience" id = "Work Experience"> 
+		 <h1 Style= "text-decoration: underline";>Experiences</h1>
+	<ul>
+	<h2>Software Engineering Student</h2>
+	<p>September 2021 - present<p>
+	<li>Aquired basic understanding of Java data structures and algorithms</li>
+	<li>Completed and currently completing ES1036, SE2202, SE2205, NMM2270, Math2151</li>
+	<li>Collaborated with a variety of studentrs from diferent backgrounds</li> 
+	<li>Joined clubs such as Chem-E-Car, W5 UWO, with exec position at PSA</li>
+	<li>Attended 10+ weekly meetings </li>
+	</ul>
+	<ul>
+	<h2>Camp Counsellor, City of Mississauga</h2>
+	<p>July 2022 - August 2022
+	<li>Created and carried out daily operations</li>
+	<li>Mentor to children aged 12-15 </li>
+	<li>Contributed to bake sale, colecting clothing donations and raising $500 for underprivlidged children in East Africa</li> 
+	<li>Collaborated with 15+ colleagues </li>
+	<li>Recipient of the July 2022 counsellor of the month award</li>
+	</ul>
+</div>
+	
+	<div class="about" id = "about">
+		<h1 style = "text-decoration: underline";>About Me</h1>
+		<p>My name is Yoosuf Bakhtair, I am a 19 year old Software Engineering Student at Western University. </p>
+		<p>I love to play and watch sports, go to the gym and spend time with my family. <p>
+		<p>I also enjoy getting involved with the community through humanitarian service as this is one of my passions. <p>
+		<p>I am looking forward to a successful and enjoyable time at Western!<p>
+	</div>
+	
+	
+	<div class = "contactInfo" id ="Contact Info">
+		<h1> Contact Information:</h1>
+		<p>567 Anystreet drive </p>
+		<p>London, ON</p>
+		<p>N6G 5K8</p>
+		<p>Phone: (647)-XXX-XXXX</p>
+		<p>Email : 2202isthebest@uwo.ca</P>
+	</div>
+		
+		
+	<style>
+		.footer {
+		position: fixed;
+		left: 0;
+		bottom: 0;
+		width: 100%;
+		background-color: powderBlue;
+		color: white;
+		text-align: center;
+		}
+	</style>
+	
+	<div class="footer">
+		<a class="active" href="#home">Home</a>
+		<a href="#WorkExperience">Work Experience</a>
+		<a href="#about">About</a>
+		<a href="#contactInfo">Contact Info</a>
+	</div>
+	
+	
+	</body>
+</html>
